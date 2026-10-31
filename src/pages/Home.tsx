@@ -97,7 +97,6 @@ function ServicesSnapshot() {
   return (
     <section className="section-py section-divider" id="services-snapshot">
       <div className="max-w-6xl mx-auto px-5 md:px-8">
-        <p className="text-xs uppercase tracking-[0.22em] text-brass mb-3">Services</p>
         <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-4 mb-12">
           <h2 className="h-display text-3xl md:text-4xl text-iron">WHAT WE FIX</h2>
           <Link
@@ -131,7 +130,6 @@ function InsuranceStrip() {
   return (
     <section className="py-12 border-y" style={{ background: 'hsl(var(--iron))' }}>
       <div className="max-w-6xl mx-auto px-5 md:px-8 text-center">
-        <p className="text-xs uppercase tracking-[0.22em] text-brass mb-3">Insurance</p>
         <h2 className="h-display text-2xl md:text-3xl text-smoke mb-2">
           WE HANDLE THE PAPERWORK
         </h2>
@@ -180,7 +178,6 @@ function FaqAccordion() {
       <div className="max-w-6xl mx-auto px-5 md:px-8">
         <div className="grid gap-16 md:grid-cols-2 md:items-start">
           <div className="md:sticky md:top-32">
-            <p className="text-xs uppercase tracking-[0.22em] text-brass mb-3">Common questions</p>
             <h2 className="h-display text-3xl md:text-4xl text-iron">
               ANSWERS BEFORE YOU ASK
             </h2>
@@ -232,7 +229,6 @@ function MapCta() {
       <div className="max-w-6xl mx-auto px-5 md:px-8">
         <div className="grid gap-12 md:grid-cols-2 md:items-center">
           <div>
-            <p className="text-xs uppercase tracking-[0.22em] text-brass mb-3">Visit us</p>
             <h2 className="h-display text-3xl md:text-4xl text-iron mb-4">
               1055 W 25TH ST
             </h2>
