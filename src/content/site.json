@@ -1,0 +1,230 @@
+{
+  "business": {
+    "name": "Campbell's Collision Repair Shop",
+    "shortName": "Campbell's Collision",
+    "tagline": "5.0 stars. 36 reviews. Collision repair on W 25th St, Indianapolis.",
+    "phone": "(317) 555-0189",
+    "phoneHref": "tel:+13175550189",
+    "email": "info@campbellscollision.com",
+    "address": {
+      "street": "1055 W 25th St",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46208",
+      "full": "1055 W 25th St, Indianapolis, IN 46208"
+    },
+    "hours": {
+      "weekday": "Mon to Fri, 8 AM to 5:30 PM",
+      "saturday": "Sat, 9 AM to 12 PM",
+      "sunday": "Sun, Closed"
+    },
+    "mapQuery": "1055+W+25th+St+Indianapolis+IN+46208",
+    "rating": "5.0",
+    "reviewCount": "36"
+  },
+  "insurance": [
+    "State Farm",
+    "GEICO",
+    "Allstate",
+    "Progressive",
+    "Erie Insurance",
+    "Farmers",
+    "Liberty Mutual",
+    "Indiana Farm Bureau"
+  ],
+  "certifications": [
+    "I-CAR Gold Class",
+    "ASE Certified Technicians",
+    "PPG Certified Refinish",
+    "Indiana BMV Licensed"
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Estimate",
+      "body": "Drive in or send photos. Written estimate within 24 hours, line by line, no surprises. We walk through every item with you before any wrench turns."
+    },
+    {
+      "step": "02",
+      "title": "Insurance",
+      "body": "We file the claim, handle the adjuster, manage the supplements. You drop off the vehicle and go about your week."
+    },
+    {
+      "step": "03",
+      "title": "Repair",
+      "body": "OEM parts where the repair calls for it. Text updates at every milestone. No scope changes without a phone call first."
+    },
+    {
+      "step": "04",
+      "title": "Pickup",
+      "body": "Washed, vacuumed, inspected. Finished photos in hand. Lifetime workmanship warranty in writing before you drive off."
+    }
+  ],
+  "services": [
+    {
+      "title": "Collision Repair",
+      "body": "From fender bends to full structural damage. Frame straightening, panel replacement, and factory-spec alignment. Every job backed by a lifetime workmanship warranty.",
+      "ideal": "Insurance claims, accident damage, fleet repairs"
+    },
+    {
+      "title": "Auto Paint & Refinish",
+      "body": "Computer-matched color in a downdraft spray booth. PPG basecoat and clearcoat system, blended through adjacent panels so the repair line disappears.",
+      "ideal": "Faded paint, color restoration, full resprays"
+    },
+    {
+      "title": "Frame Straightening",
+      "body": "Computerized measuring against factory spec. Straightened, documented, and signed off with a before-and-after printout you keep.",
+      "ideal": "Heavy collision, structural damage, unibody pulls"
+    },
+    {
+      "title": "Dent & Bumper Repair",
+      "body": "Paintless dent repair when the metal allows it. Full refinish when it does not. We tell you which one up front so there are no surprises on the invoice.",
+      "ideal": "Hail damage, parking lot dings, bumper scuffs"
+    },
+    {
+      "title": "Rust & Corrosion Repair",
+      "body": "Indiana winters put road salt on every panel. We cut out rust, weld in new metal, seal, prime, and paint. The repair outlasts the original finish.",
+      "ideal": "Wheel wells, rocker panels, undercarriage, salt damage"
+    },
+    {
+      "title": "Auto Glass",
+      "body": "Windshield and side glass replacement. We handle the insurance call so you coordinate with one shop, not two.",
+      "ideal": "Cracked windshield, rock chips, side window replacement"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&w=800&q=80",
+      "title": "Paint booth, clearcoat application",
+      "caption": "Clearcoat application in the downdraft booth. Controlled environment, full PPE, zero dust in the finish."
+    },
+    {
+      "id": "g2",
+      "image": "https://images.unsplash.com/photo-1625047509248-ec889cbff17f?auto=format&fit=crop&w=800&q=80",
+      "title": "Panel prep and sanding",
+      "caption": "Sanding a quarter panel before primer. Getting the surface right is the difference between a repair that lasts and one that peels."
+    },
+    {
+      "id": "g3",
+      "image": "https://images.unsplash.com/photo-1580983218765-f663bec07b37?auto=format&fit=crop&w=800&q=80",
+      "title": "Engine bay inspection",
+      "caption": "Checking for hidden damage after a front-end collision. Nothing gets reassembled until every component is accounted for."
+    },
+    {
+      "id": "g4",
+      "image": "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?auto=format&fit=crop&w=800&q=80",
+      "title": "Color matching",
+      "caption": "Computer color matching under three light sources. The repair blends into adjacent panels so you cannot tell where it starts."
+    },
+    {
+      "id": "g5",
+      "image": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=800&q=80",
+      "title": "Frame straightening",
+      "caption": "Computerized frame measurement against factory spec. Every pull is documented with before-and-after data."
+    },
+    {
+      "id": "g6",
+      "image": "https://images.unsplash.com/photo-1507136566006-cfc505b114fc?auto=format&fit=crop&w=800&q=80",
+      "title": "Final polish",
+      "caption": "Polishing after clearcoat cure. The last step before the owner sees the finished work."
+    },
+    {
+      "id": "g7",
+      "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&w=800&q=80",
+      "title": "Finished vehicle",
+      "caption": "Clean, detailed, and ready for pickup. Every vehicle leaves the shop washed and inspected."
+    },
+    {
+      "id": "g8",
+      "image": "https://images.unsplash.com/photo-1615906655593-ad0386982a0f?auto=format&fit=crop&w=800&q=80",
+      "title": "Technician at work",
+      "caption": "Hands-on repair in the shop bay. Structural work on a late-model sedan after a side-impact collision."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "Hit a deer on 465 coming home from work. Campbell's had my Silverado back in five days. The color match on the new fender was perfect and they handled everything with State Farm.",
+      "author": "Marcus T.",
+      "detail": "Chevy Silverado, deer strike, 5 days",
+      "date": "September 2026"
+    },
+    {
+      "quote": "Got rear-ended at the 38th and Georgetown intersection. Three estimates, and Campbell's was the only shop that showed me exactly what needed replacing versus what they could repair. Saved me $400.",
+      "author": "Rachel W.",
+      "detail": "Rear-end collision, Honda CR-V, insurance claim",
+      "date": "July 2026"
+    },
+    {
+      "quote": "Indiana winters destroyed the rocker panels on my truck. They cut out the rust, welded new metal, and painted it to match. Three years later, zero rust. Nobody else in Indy quoted that repair.",
+      "author": "Brian K.",
+      "detail": "Rust repair, Ford F-250, rocker panels",
+      "date": "May 2026"
+    },
+    {
+      "quote": "Second vehicle I have brought here. First was hail damage on my Accord, now my daughter's Civic after she slid on ice near the Speedway. Same quality both times. They text updates every step.",
+      "author": "Linda P.",
+      "detail": "Repeat customer, hail + ice collision",
+      "date": "February 2026"
+    },
+    {
+      "quote": "My insurance company tried to total my car. Campbell's worked with the adjuster and showed them a repair was cheaper and safe. Got my car back instead of a check I could not replace it with.",
+      "author": "David M.",
+      "detail": "Total loss negotiation, Subaru Outback",
+      "date": "December 2025"
+    },
+    {
+      "quote": "Brought in my wife's minivan after a parking lot scrape at Castleton. They matched the pearl white paint perfectly. You cannot find the repair line even if you know where to look.",
+      "author": "Steve J.",
+      "detail": "Paint match, Toyota Sienna, bumper scuff",
+      "date": "October 2025"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you work directly with my insurance company?",
+      "a": "Yes. We file the claim, coordinate with your adjuster, and bill the carrier directly. You drop off the vehicle and pick it up when it is ready. No phone tag, no paperwork on your end."
+    },
+    {
+      "q": "How long will my repair take?",
+      "a": "Most standard collision repairs take 3 to 7 business days. Frame work or full repaints can run 10 to 14 days. We give you a written timeline in your estimate before any work starts, and we call if anything changes."
+    },
+    {
+      "q": "Can you fix rust and salt damage from Indiana winters?",
+      "a": "Yes. Road salt corrosion on rocker panels, wheel wells, and undercarriages is one of our most common repairs. We cut out the rust, weld in new metal, seal, prime, and paint. The repair outlasts the original finish."
+    },
+    {
+      "q": "What does the lifetime warranty cover?",
+      "a": "Every repair we complete is backed by a written lifetime workmanship warranty for as long as you own the vehicle. If anything we touched fails, we fix it at no charge."
+    },
+    {
+      "q": "Do you use OEM parts?",
+      "a": "When the repair calls for it, yes. We discuss parts options during the estimate. OEM, certified aftermarket, and recycled parts each have a place depending on the vehicle age and insurance coverage."
+    },
+    {
+      "q": "Can I get a repair without going through insurance?",
+      "a": "Yes. We do out-of-pocket repairs at flat pricing. You know the total before we start. Many customers go that route for minor work like bumper scuffs or parking lot dings."
+    },
+    {
+      "q": "Do you help with rental car arrangements?",
+      "a": "We coordinate with Enterprise and National for rental pickup while your vehicle is in the shop. If your policy covers a rental, we help set that up on the first day."
+    }
+  ],
+  "team": [
+    {
+      "name": "Shop Owner",
+      "role": "Owner & Estimator",
+      "blurb": "Walks every estimate in person. Knows every insurer's process in central Indiana. Nothing gets quoted sight-unseen."
+    },
+    {
+      "name": "Lead Body Tech",
+      "role": "I-CAR Gold Class Certified",
+      "blurb": "Structural and heavy collision work. Frame pulls, unibody straightening, and the repairs where factory-spec tolerances matter."
+    },
+    {
+      "name": "Lead Painter",
+      "role": "PPG Certified",
+      "blurb": "Runs the spray booth. Color matching, blending, clearcoat. Checks every finish under daylight, fluorescent, and LED before signoff."
+    }
+  ]
+}

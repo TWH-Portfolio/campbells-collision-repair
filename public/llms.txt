@@ -1,0 +1,30 @@
+# Campbell's Collision Repair Shop
+
+> Collision repair, auto paint, and bodywork at 1055 W 25th St, Indianapolis, IN 46208. Free estimates. Direct insurance billing. Lifetime workmanship warranty. 5.0 stars from 36 Google reviews.
+
+## About
+
+Campbell's Collision Repair Shop is a collision repair and auto body shop on W 25th St in Indianapolis, Indiana. The shop provides collision repair, auto paint and refinish, frame straightening, dent and bumper repair, rust and corrosion repair, and auto glass replacement. Every repair is backed by a lifetime workmanship warranty. The shop works directly with all major Indiana insurance carriers.
+
+## Services
+
+- Collision Repair
+- Auto Paint & Refinish
+- Frame Straightening
+- Dent & Bumper Repair
+- Rust & Corrosion Repair
+- Auto Glass
+
+## Pages
+
+- Home: https://campbells-collision-repair-demo.thewateringhole-team.workers.dev/
+- About: https://campbells-collision-repair-demo.thewateringhole-team.workers.dev/about
+- Services: https://campbells-collision-repair-demo.thewateringhole-team.workers.dev/services
+- Gallery: https://campbells-collision-repair-demo.thewateringhole-team.workers.dev/gallery
+- Free Estimate: https://campbells-collision-repair-demo.thewateringhole-team.workers.dev/estimate
+
+## Contact
+
+- Phone: (317) 555-0189
+- Address: 1055 W 25th St, Indianapolis, IN 46208
+- Hours: Mon-Fri 8 AM to 5:30 PM, Sat 9 AM to 12 PM
